@@ -11,6 +11,7 @@ var win32 = os.platform() === 'win32'
 var noop = function () {}
 
 var secret = "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"
+var secret2 = "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"
 var echo = function (name) {
   return name
 }
